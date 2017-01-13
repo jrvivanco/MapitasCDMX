@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="texto_titulo">24dp</dimen>
+    <dimen name="imagen_width">150dp</dimen>
+    <dimen name="imagen_height">200dp</dimen>
+
+
+
+</resources>
